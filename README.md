@@ -1,5 +1,7 @@
 # Prüfungsaufgabe 2: Unit Testing and Logging for Data Science via Logistic Regression
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yenvyhh/Pruefungsaufgabe2/main?filepath=Pruefungsaufgabe%202%20.ipynb)
+
 **Quellen:**
 Unit Testing & Logging: https://towardsdatascience.com/unit-testing-and-logging-for-data-science-d7fb8fd5d217 
 Logistic Regression: Udemy Kurs - Python für Data Science, Machine Learning & Visualization
