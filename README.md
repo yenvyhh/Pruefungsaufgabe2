@@ -78,7 +78,7 @@ def logmodelFit():
     return logmodel.fit(X_train,y_train)
 logmodelFit()
 **Mit dem Ergebnis: logmodelFit ran in: 0.031914472579956055 sec mit dem Faktor 1,2 multipliziert wird.
-Im vorliegenden Ergebnis ist die Lautzeit der Trainingsfunktion ***0.03780817985534668*** und der Grenzwert der repräsentativen Lautzeit bei **0.0637061119079589***
+Im vorliegenden Ergebnis liegt die Laufzeit der Trainingsfunktion ***0.03780817985534668*** **unter der Grenzwert der repräsentativen Lautzeit bei **0.0637061119079589***
 
 **Das folgende Bild zeigt, was auf dem Notebook zusehen ist, wenn testdatenfile_1.txt verwendet wird:
 ![image](https://user-images.githubusercontent.com/78904217/115259566-4bf95400-a132-11eb-90d7-0d180565d091.png)
